@@ -14,7 +14,7 @@
 6 - Verificar se as tabelas da aplicação foram criadas. 
 
 7 - Verificar no teste, se foram lançados os log's de medição de tempo.
-
+____________________________________________________________________________________________________________________________________________________
 English: 
 # Example of how to make performance test in a JPA application, using Hibernate acessing MySql and PostgreSql 
 
