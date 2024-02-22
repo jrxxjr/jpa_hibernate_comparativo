@@ -1,4 +1,5 @@
-﻿Portuguese: Exemplo de como fazer um teste de performance em uma aplicação JPA, utilizando Hibernate acessando MySql e PostgreSql
+﻿Portuguese: 
+# Exemplo de como fazer um teste de performance em uma aplicação JPA, utilizando Hibernate acessando MySql e PostgreSql
 
 1 - Foi criado um projeto Maven do Eclipse, é só importar um projeto Maven no Eclipse.  
 
@@ -14,7 +15,8 @@
 
 7 - Verificar no teste, se foram lançados os log's de medição de tempo.
 
-English: Example of how to make performance test in a JPA application, using Hibernate acessing MySql and PostgreSql 
+English: 
+# Example of how to make performance test in a JPA application, using Hibernate acessing MySql and PostgreSql 
 
 1 - A standard Eclipse Maven project was created, just import a Maven project in Eclipse.
 
